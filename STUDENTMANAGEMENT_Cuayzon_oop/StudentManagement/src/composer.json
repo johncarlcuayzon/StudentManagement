@@ -1,0 +1,16 @@
+{
+    "name": "kcc/student_cuayzon-management",
+    "description": "Basic Management",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kcc\\StudentCuayzonManagement\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "John Carl"
+        }
+    ],
+    "require": {}
+}
